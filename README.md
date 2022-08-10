@@ -1,5 +1,7 @@
 <h1 align="center">Stop and rest a while, traveller...🐲</h1>
-<h4 align="left">Hello! I am currently a Computer Science student (graduating May 2024) with 2 Software Developer internships under my belt. I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging</h4>
+<h4 align="left">Hello! I am currently a Computer Science student (graduating May 2024) with 2 Software Developer internships under my belt. 
+I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! 
+That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging</h4>
 
 - 🔭 I’m currently working on **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
