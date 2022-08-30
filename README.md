@@ -1,4 +1,4 @@
-<h1 align="center">Stop and rest a while...</h1>
+<h1 align="center">---===≡≡≡☆</h1>
 <h4 align="left">Hello! I am currently a Computer Science student (graduating May 2024) with 2 Software Developer internships under my belt. 
 I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! 
 That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging</h4>
