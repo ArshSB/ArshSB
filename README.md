@@ -3,7 +3,7 @@
 I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! 
 That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging</h4>
 
-- 🔭 I’m currently working on **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
+- 🔭 I’m currently working on improving **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
 - 👯 I’m looking to collaborate on **RideShare**, a progressive web app for crowdsourced mobility (like Uber) built with Django, Firebase and Google Map API
 
