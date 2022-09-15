@@ -9,7 +9,7 @@ That said, what really keeps bringing me back is the feeling of fixing bugs afte
 
 - 🌱 I’m currently learning **Leetcode, Django and Google Cloud Platform**
 
-- 💬 Ask me about **ancient history, logic paradoxes and future predictions!**
+- 💬 I love to discuss about **ancient history, logic paradoxes and future predictions!**
 
 - 📄 Know about my professional and education experience on my [LinkedIn](https://www.linkedin.com/in/arsh-buttar/) profile
 
