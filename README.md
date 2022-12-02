@@ -1,7 +1,7 @@
 <h1 align="center">---===≡≡≡☆</h1>
-<h4 align="left">Hello! I am a Computer Science student (graduating May 2024) with 2 Software Developer internships under my belt. 
+<h4 align="left">Hello there! I am a CS student with multiple Software Developer internships under my belt. 
 I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! 
-That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging</h4>
+That said, what really keeps bringing me back is the feeling of fixing bugs after many hours of debugging, only to realize you further broke the code (totally not a lie)</h4>
 
 - 🔭 I’m currently working on improving **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
@@ -9,7 +9,7 @@ That said, what really keeps bringing me back is the feeling of fixing bugs afte
 
 - 🌱 I’m currently learning **Leetcode, Django and Google Cloud Platform**
 
-- 💬 I love to discuss about **ancient history, logic paradoxes and future predictions!**
+- 💬 I love to discuss about **ancient history, logic paradoxes and predictions for the future!**
 
 - 📄 Know about my professional and education experience on my [LinkedIn](https://www.linkedin.com/in/arsh-buttar/) profile
 
