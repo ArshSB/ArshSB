@@ -1,5 +1,5 @@
 <h1 align="center">---===≡≡≡☆</h1>
-<p style="font-size:12px" align="left">Hi, my name is Arsh. I am a CS student learning to become a professional software developer. Developing useful and practical tools is one of my favorite things to do. I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value!</p>
+<p style="font-size:12px" align="left">Hi, my name is Arsh. I am a CS student learning to become an efficient software developer. . I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! Developing useful and practical tools is one of my favorite things to do:</p>
 
 - 🔭 I’m currently working on improving **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Leetcode, Django and Google Cloud Platform**
 
-- 💬 I love to discuss about **ancient history, logic paradoxes and predictions for the future!**
+- 💬 I love to discuss about **psychology, ancient history, and predictions for the future!**
 
 - 📄 Know about my professional and education experience on my [LinkedIn](https://www.linkedin.com/in/arsh-buttar/) profile
 
