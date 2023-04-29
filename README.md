@@ -1,5 +1,5 @@
 <h1 align="center">---===≡≡≡☆</h1>
-<p style="font-size:12px" align="left">Hi, my name is Arsh. I am a CS student learning to become an efficient software developer. . I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! Developing useful and practical tools is one of my favorite things to do:</p>
+<p style="font-size:12px" align="left">Hello, my name is Arsh. I am a CS student learning to become a skilled software developer. I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! Developing useful and practical tools is one of my favorite things to do:</p>
 
 - 🔭 I’m currently working on improving **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
