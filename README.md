@@ -1,11 +1,11 @@
 <h1 align="center">🌠</h1>
-<p style="font-size:12px" align="left">Hello, my name is Arsh. I'm a CS student learning to become a skilled software developer. I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! Developing practical tools is one of my favorite things to do:</p>
+<p style="font-size:12px" align="left">I love programming because of the freedom it brings; you only need a laptop and internet connection to learn great things and create value! Developing practical tools is one of my favorite things to do</p>
 
 - 🔭 I’m currently working on improving **Succinct**, a React app that allows you to get text summaries of Youtube videos and more!
 
 - 👯 I’m looking to collaborate on **RideShare**, a progressive web app for crowdsourced mobility (like Uber) built with Django, Firebase and Google Map API
 
-- 🌱 I’m currently learning **LeetCode, Flask and Google Cloud Platform**
+- 🌱 I’m currently learning **Svelte, Flutter and GraphQL**
 
 - 💬 I love to discuss about **psychology, ancient history, and predictions for the future!**
 
